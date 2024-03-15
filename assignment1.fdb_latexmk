@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1710501203 "/home/ghostrid/programs/GLM_Codes/assignment1.tex" "assignment1.pdf" "assignment1" 1710501203 0
-  "/home/ghostrid/programs/GLM_Codes/assignment1.tex" 1710501202 4575 b6cdf0924aa887d858622f4e1fd2f4b7 ""
+["pdflatex"] 1710503421 "/home/ghostrid/programs/GLM_Codes/assignment1.tex" "assignment1.pdf" "assignment1" 1710503421 0
+  "/home/ghostrid/programs/GLM_Codes/assignment1.tex" 1710503420 4579 47bf8acba3466af936331cc31e33fc52 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -38,8 +38,8 @@
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1691933948 8172923 ff1e7b86db340a58b79164c04e2d3645 ""
   "/usr/local/texlive/2023/texmf.cnf" 1691933788 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "QQplot.png" 1710500464 20656 0a3f1c81e384ad68ea77cc88f7c817a0 ""
-  "assignment1.aux" 1710501203 1093 c6503b36775a2b34b0378f1324e35ca4 "pdflatex"
-  "assignment1.tex" 1710501202 4575 b6cdf0924aa887d858622f4e1fd2f4b7 ""
+  "assignment1.aux" 1710503421 1093 c6503b36775a2b34b0378f1324e35ca4 "pdflatex"
+  "assignment1.tex" 1710503420 4579 47bf8acba3466af936331cc31e33fc52 ""
   "resvsfit.png" 1710500424 62943 c602db9915c19b36c2bc875e7d7cb2e9 ""
   (generated)
   "assignment1.aux"
